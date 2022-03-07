@@ -1,6 +1,3 @@
-# yoounng.github.io
- blog
-
 # log
 
  [2022-03-07.md](日志\2022-03-07.md)  
